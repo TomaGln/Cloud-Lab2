@@ -55,4 +55,5 @@ No modules.
 | <a name="output_public_ip_address"></a> [public\_ip\_address](#output\_public\_ip\_address) | External IP address of the VM |
 | <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | Name of the resource group |
 <!-- END_TF_DOCS -->
+
 ![rg-romantic-wallaby](https://github.com/TomaGln/Cloud-Lab2/assets/118186627/73185488-fb1e-443e-a25d-96581a7552ef)
