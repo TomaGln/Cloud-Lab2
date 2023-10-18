@@ -56,4 +56,4 @@ No modules.
 | <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | Name of the resource group |
 <!-- END_TF_DOCS -->
 
-![rg-romantic-wallaby](https://github.com/TomaGln/Cloud-Lab2/assets/118186627/73185488-fb1e-443e-a25d-96581a7552ef)
+![rg-romantic-wallaby](https://github.com/TomaGln/Cloud-Lab2/assets/118186627/855069c4-4d94-4a67-9728-d55a97bddd3a)
