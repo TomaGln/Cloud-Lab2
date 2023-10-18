@@ -51,7 +51,7 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_key_data"></a> [key\_data](#output\_key\_data) | n/a |
+| <a name="output_key_data"></a> [key\_data](#output\_key\_data) | SSH-RSA Key |
 | <a name="output_public_ip_address"></a> [public\_ip\_address](#output\_public\_ip\_address) | External IP address of the VM |
 | <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | Name of the resource group |
 <!-- END_TF_DOCS -->
